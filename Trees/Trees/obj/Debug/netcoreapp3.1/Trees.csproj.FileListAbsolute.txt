@@ -1,0 +1,11 @@
+C:\Users\i7 boy\source\repos\Trees\Trees\bin\Debug\netcoreapp3.1\Trees.exe
+C:\Users\i7 boy\source\repos\Trees\Trees\obj\Debug\netcoreapp3.1\Trees.csprojAssemblyReference.cache
+C:\Users\i7 boy\source\repos\Trees\Trees\obj\Debug\netcoreapp3.1\Trees.AssemblyInfoInputs.cache
+C:\Users\i7 boy\source\repos\Trees\Trees\obj\Debug\netcoreapp3.1\Trees.AssemblyInfo.cs
+C:\Users\i7 boy\source\repos\Trees\Trees\bin\Debug\netcoreapp3.1\Trees.deps.json
+C:\Users\i7 boy\source\repos\Trees\Trees\bin\Debug\netcoreapp3.1\Trees.runtimeconfig.json
+C:\Users\i7 boy\source\repos\Trees\Trees\bin\Debug\netcoreapp3.1\Trees.runtimeconfig.dev.json
+C:\Users\i7 boy\source\repos\Trees\Trees\bin\Debug\netcoreapp3.1\Trees.dll
+C:\Users\i7 boy\source\repos\Trees\Trees\bin\Debug\netcoreapp3.1\Trees.pdb
+C:\Users\i7 boy\source\repos\Trees\Trees\obj\Debug\netcoreapp3.1\Trees.dll
+C:\Users\i7 boy\source\repos\Trees\Trees\obj\Debug\netcoreapp3.1\Trees.pdb
