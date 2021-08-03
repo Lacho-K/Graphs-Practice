@@ -1,0 +1,11 @@
+C:\Users\i7 boy\source\repos\GraphPaths\GraphPaths\obj\Debug\netcoreapp3.1\GraphPaths.csprojAssemblyReference.cache
+C:\Users\i7 boy\source\repos\GraphPaths\GraphPaths\obj\Debug\netcoreapp3.1\GraphPaths.AssemblyInfoInputs.cache
+C:\Users\i7 boy\source\repos\GraphPaths\GraphPaths\obj\Debug\netcoreapp3.1\GraphPaths.AssemblyInfo.cs
+C:\Users\i7 boy\source\repos\GraphPaths\GraphPaths\bin\Debug\netcoreapp3.1\GraphPaths.exe
+C:\Users\i7 boy\source\repos\GraphPaths\GraphPaths\bin\Debug\netcoreapp3.1\GraphPaths.deps.json
+C:\Users\i7 boy\source\repos\GraphPaths\GraphPaths\bin\Debug\netcoreapp3.1\GraphPaths.runtimeconfig.json
+C:\Users\i7 boy\source\repos\GraphPaths\GraphPaths\bin\Debug\netcoreapp3.1\GraphPaths.runtimeconfig.dev.json
+C:\Users\i7 boy\source\repos\GraphPaths\GraphPaths\bin\Debug\netcoreapp3.1\GraphPaths.dll
+C:\Users\i7 boy\source\repos\GraphPaths\GraphPaths\bin\Debug\netcoreapp3.1\GraphPaths.pdb
+C:\Users\i7 boy\source\repos\GraphPaths\GraphPaths\obj\Debug\netcoreapp3.1\GraphPaths.dll
+C:\Users\i7 boy\source\repos\GraphPaths\GraphPaths\obj\Debug\netcoreapp3.1\GraphPaths.pdb
